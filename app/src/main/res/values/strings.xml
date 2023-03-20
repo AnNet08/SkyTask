@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatsNews</string>
+    <string name="title">Sky Cat News</string>
+    <string name="thereAreNoItems">There are no items</string>
+</resources>
